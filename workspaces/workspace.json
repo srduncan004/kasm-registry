@@ -1,6 +1,6 @@
 {
   "friendly_name": "Windows 11",
-  "image_src": "windows-11.png",
+  "image_src": "windows.png",
   "description": null,
   "name": "dockurr/windows",
   "cores": 2,
